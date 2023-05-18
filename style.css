@@ -1,0 +1,24 @@
+body {
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(149, 230, 255);
+    color: #000000;
+}
+
+span {
+    font-size: 24px;
+}
+
+#score {
+    margin-left: -1150px;
+    
+}
+
+#timer {
+    float: right;
+    margin-right: 35px;
+   
+}
+
+#sketch_drawn {
+    font-weight: bold;
+}
